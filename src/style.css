@@ -1,0 +1,19 @@
+/* src/style.css */
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#app {
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    /* Zapewnia, że canvas nie będzie miał dziwnych obramowań */
+    display: block;
+}
