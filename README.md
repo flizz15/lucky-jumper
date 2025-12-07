@@ -1,7 +1,7 @@
 # Lucky Jumper – DOPAMINAAAA 🍀
 ### (sorki, generowaliśmy ten opis przez AI z braku czasu... ale wszystko co najważniejsze jest tutaj)
 ### kod zrodlowy jest tutaj, w dist jest skompilowany
-### UWAGA - niestety nie mamy stricte filmu, mamy prezentacje - JEST TUTAJ "prezentacja.pptx"
+### UWAGA - nie mamy filmu, mamy prezentacje: [https://docs.google.com/presentation/d/15FOrk386_WaQxstjUVGNy3vUjHCRU0H_c-MfJh9W7OU/edit?slide=id.p9#slide=id.p9](https://docs.google.com/presentation/d/15FOrk386_WaQxstjUVGNy3vUjHCRU0H_c-MfJh9W7OU/edit?usp=sharing)
 
 
 ## Linki:
