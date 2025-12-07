@@ -1,9 +1,10 @@
 # Lucky Jumper – DOPAMINAAAA 🍀
 ### (sorki, generowaliśmy ten opis przez AI z braku czasu... ale wszystko co najważniejsze jest tutaj)
+### kod zrodlowy jest tutaj, w dist jest skompilowany
 
 ## Linki:
-1. https://luckyjumper.infinityfreeapp.com/
-2. 
+1. https://luckyjumper.infinityfreeapp.com/ (strona)
+2. https://rococo-marzipan-01f7c6.netlify.app/ (gra)
 
 ### 🕹️ Instrukcja dla Oceniających (Jak szybko przetestować?)
 
