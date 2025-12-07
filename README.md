@@ -1,12 +1,14 @@
 # Lucky Jumper – DOPAMINAAAA 🍀
 ### (sorki, generowaliśmy ten opis przez AI z braku czasu... ale wszystko co najważniejsze jest tutaj)
 ### kod zrodlowy jest tutaj, w dist jest skompilowany
-### UWAGA - niestety nie mamy stricte filmu, mamy prezentacje
+### UWAGA - niestety nie mamy stricte filmu, mamy prezentacje - JEST TUTAJ "prezentacja.pptx"
+
 
 ## Linki:
 1. https://luckyjumper.infinityfreeapp.com/ (strona)
 2. https://rococo-marzipan-01f7c6.netlify.app/ (gra)
 3. plik Logic (2).pdf W TYM REPO z cala logika matematyczna
+4. Prezentacja.pptx !!!!!!!
 
 ### 🕹️ Instrukcja dla Oceniających (Jak szybko przetestować?)
 
